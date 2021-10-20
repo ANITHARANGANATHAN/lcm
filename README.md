@@ -1,2 +1,0 @@
-# lcm
-developed by anitharanganathan
